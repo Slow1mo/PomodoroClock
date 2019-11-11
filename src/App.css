@@ -1,0 +1,23 @@
+.App {
+    text-align: center;
+}
+
+body {
+    background-image: url("https://images.unsplash.com/photo-1510070009289-b5bc34383727?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80");
+    background-size: 100%;
+    background-attachment: fixed;
+    color: black;
+    font-family: 'Space Mono', monospace;
+}
+
+h2 {
+    display: inline;
+}
+
+#start {
+    margin: 10px;
+}
+
+#reset {
+    margin: 10px;
+}
